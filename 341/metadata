@@ -1,0 +1,5 @@
+name: movielens100k
+description: |
+ 100K MovieLens movie ratings dataset from http://www.grouplens.org/. 100,000 ratings (1-5) from 943 users on 1682 movies. Test set contains exactly 10 ratings per user.
+ See included README.txt for more information.
+format: CollaborativeFiltering
